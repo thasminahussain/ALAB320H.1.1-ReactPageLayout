@@ -1,0 +1,21 @@
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+
+input {
+    width: 50vw;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    border: 1px solid black; 
+    margin:10px 50px;
+    padding: 8px; 
+}
